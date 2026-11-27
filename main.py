@@ -34,9 +34,9 @@ LEAD_DECK = ("Iranian drones struck a metal plant in Kuwait, killing two "
              "Italian technicians \u2014 the deadliest attack yet in the "
              "widening Gulf confrontation.")
 
-# kicker, headline, one-line deck. All six stories were first reported on
-# 27 November 2026 (sources: 10things.news daily briefing, News Media
-# House world desk, and the joyofgreen/notfallsono wire digests).
+# kicker, headline, one-line deck. Top stories of the day (sources:
+# 10things.news daily briefing, News Media House world desk, and the
+# joyofgreen/notfallsono wire digests).
 STORIES = [
     ("TRADE",
      "US Allies Reject Trump\u2019s New Tariff Justification",
@@ -234,7 +234,7 @@ def render():
     # Footer.
     centred(draw, W // 2, 982,
             "World News  \u2022  Friday 27 November 2026  \u2022  "
-            "All stories first reported on 27 November 2026",
+            "Top stories of the day",
             font(SANS, 14), fill=FAINT)
     return img
 
