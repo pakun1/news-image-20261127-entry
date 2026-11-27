@@ -52,7 +52,7 @@ STORIES = [
      "Responders are evacuating as violence spreads."),
 ]
 WEATHER_KICKER = "WEATHER \u2022 UNITED STATES"
-WEATHER_HEADLINE = ("Thanksgiving Blizzard Cuts Power, Delays Flights "
+WEATHER_HEADLINE = ("Thanksgiving Storm Cuts Power, Delays Flights "
                     "on the East Coast")
 WEATHER_DECK = ("Millions face a stormy holiday as the East Coast braces "
                 "for flooding.")
